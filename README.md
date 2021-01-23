@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Dušan's stats](https://github-readme-stats.vercel.app/api?username=dusansimic&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&custom_title=Dušan's%20stats)
+
 <!--
 **dusansimic/dusansimic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
