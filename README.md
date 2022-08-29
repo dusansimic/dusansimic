@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Dušan's stats](https://github-readme-stats.vercel.app/api?username=dusansimic&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&custom_title=Dušan's%20stats)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R4CR4NO)
+
+![Dušan's stats](https://github-readme-stats.vercel.app/api?username=dusansimic&theme=github_dark&show_icons=true&custom_title=Dušan's%20stats#gh-dark-mode-only)
 
 <!--
 **dusansimic/dusansimic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
